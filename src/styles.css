@@ -36,6 +36,14 @@ p.current-time {
   margin: 0;
 }
 
+p.github-link {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 15px;
+  color: #216850;
+  margin: 0;
+  text-align: center;
+}
+
 .border {
   margin: 25px;
   padding: 10px 25px 40px 25px;
